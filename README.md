@@ -16,3 +16,4 @@ AI-assisted analysis, Excel dashboarding.
 
 ## Links
 - Kaggle Notebook: [https://www.kaggle.com/code/ghazalabusefeen/notebooke4ca99dde5]
+- Excel Dashboard: [https://sg.docworkspace.com/d/sbRawnIBeJe9AsQf_fsd6r8taf0xyjkhybg?sa=601.1037]
