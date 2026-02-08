@@ -10,9 +10,9 @@ Public dataset from Kaggle.
 AI-assisted analysis, Excel dashboarding.
 
 ## Key Insights
-- Amazon contributes X% of total revenue.
+- Amazon contributes 82.7% of total revenue.
 - Profitability differs significantly by channel.
 - Seasonal patterns affect sales volume.
 
 ## Links
-- Kaggle Notebook: [link]
+- Kaggle Notebook: [https://www.kaggle.com/code/ghazalabusefeen/notebooke4ca99dde5]
